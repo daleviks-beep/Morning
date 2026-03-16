@@ -49,7 +49,7 @@ st.sidebar.header("Model Settings")
 
 openai_model = st.sidebar.text_input(
     "OpenAI Model",
-    value="gpt-5"
+    value="gpt-5-mini"
 )
 
 st.sidebar.header("Files")
